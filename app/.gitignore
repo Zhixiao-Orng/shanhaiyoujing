@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.data/
+.wrangler/
+.dev.vars*
+.tmp/
+cloud-migration-exports/
+.playwright-cli/
+*.log
+.DS_Store
+
+# Cloudflare 部署配置含私有域名/数据库 ID，使用前复制 wrangler.example.jsonc 改名
+wrangler.jsonc

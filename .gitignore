@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.data/
+.env
+.env.*
+*.sqlite*
+*.log
+__pycache__/
+.DS_Store
+.wrangler/
+.dev.vars*
+wrangler.jsonc

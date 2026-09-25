@@ -1,0 +1,1 @@
+{"project":{"id":"getting-started","name":"入门示例"},"nodes":[{"key":"goal","title":"完成一个小项目"},{"key":"plan","title":"明确目标与完成标准","parent":"goal"},{"key":"work","title":"执行并记录进展","parent":"goal"},{"key":"idea","title":"以后可以尝试的方向","idea":true}]}
