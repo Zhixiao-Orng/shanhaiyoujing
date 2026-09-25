@@ -2,7 +2,7 @@
 
 面向长线任务的本地可视化看板，提供主任务与子任务脑图、想法池、状态管理、工作日志和配套 Codex / WorkBuddy Skill。
 
-工程标识沿用 `task-atlas`，界面中的“任务图谱”是功能名称。支持 Codex、WorkBuddy（WorkBuddy 支持由用户确认）。
+工程标识沿用 `task-atlas`，界面中的“任务图谱”是功能名称。Codex、WorkBuddy 均由作者亲自测试，确认支持。其他 Agent 作者尚未测试，但不代表无法使用。
 
 这是“本地网页应用 + 本地服务 + Skill”，不是只有提示词的技能包。无需注册云端账户；任务数据库保存在运行程序的电脑上。AI 协作在 Codex 或 WorkBuddy 对话中进行，看板不提供独立 AI 聊天入口。
 
