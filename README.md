@@ -76,3 +76,7 @@ npm run dev
 数据库已有按列检查和状态升级逻辑，但并非所有历史版本组合都已验证。升级前停止服务并备份 `.data`；若升级失败，停止程序，恢复备份与原版本，不要在唯一一份数据上反复尝试。未来涉及数据库结构变化的发布必须补充迁移测试。
 
 版本记录见 CHANGELOG.md，检查范围和已知限制见 RELEASE_CHECKLIST.md。
+
+## 联系作者与意见反馈
+
+意见、使用问题或功能建议可通过 [GitHub Issues](https://github.com/Zhixiao-Orng/shanhaiyoujing/issues) 提交，也可发送邮件至 [Adrian123_orange@163.com](mailto:Adrian123_orange@163.com)。小红书：滞销橙子。公开反馈或发送截图前，请遮盖私人任务内容。
